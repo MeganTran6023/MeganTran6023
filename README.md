@@ -1,4 +1,4 @@
-# Megan Tran
+# 👋 Hi I'm Megan Tran!
 
 I am a rising senior at the University of South Florida. I primarily work on machine learning projects using Python; I also enjoy learning bash scripting using Linux as well as R.
 
@@ -11,9 +11,6 @@ I am a rising senior at the University of South Florida. I primarily work on mac
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonicdaheghod&theme=tokyonight&hide_progress=true&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-# Skills and Experience
-* 💻 Python, HTML, C++, CSS, R, Bash
-* 💾 Linux, Jupyter Notebook, Visual Studio Code
 <!--
 **Sonicdaheghod/Sonicdaheghod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
