@@ -2,11 +2,13 @@
 
 I am a rising senior at the University of South Florida. I primarily work on machine learning projects using Python; I also enjoy learning bash scripting using Linux as well as R.
 
+#Stats
+
+![Megan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonicdaheghod&show_icons=true&theme=tokyonight)
+
 # Skills and Experience
 * 💻 Python, HTML, C++, CSS, R, Bash
 * 💾 Linux, Jupyter Notebook, Visual Studio Code
-
-[![Megan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonicdaheghod)](https://github.com/Sonicdaheghod/github-readme-stats&show_icons=true&theme=tokyonight)
 <!--
 **Sonicdaheghod/Sonicdaheghod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
