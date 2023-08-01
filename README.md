@@ -4,7 +4,12 @@ I am a rising senior at the University of South Florida. I primarily work on mac
 
 # Stats
 
-![Megan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonicdaheghod&show_icons=true&theme=tokyonight)
+<a href="https://github.com/Sonicdaheghod/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Sonicdaheghod&show_icons=true&theme=tokyonight&hide_rank=True" />
+</a>
+<a href="https://github.com/Sonicdaheghod/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonicdaheghod&theme=tokyonight&hide_progress=true&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 # Skills and Experience
 * 💻 Python, HTML, C++, CSS, R, Bash
