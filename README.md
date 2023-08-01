@@ -2,7 +2,7 @@
 
 I am a rising senior at the University of South Florida. I primarily work on machine learning projects using Python; I also enjoy learning bash scripting using Linux as well as R.
 
-#Stats
+# Stats
 
 ![Megan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonicdaheghod&show_icons=true&theme=tokyonight)
 
