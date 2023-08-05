@@ -1,6 +1,6 @@
 # 👋 Hi I'm Megan Tran!
 
-I am a rising senior at the University of South Florida. I primarily work on machine learning projects using Python; I also enjoy learning shell scripting including Bash using Ubuntu (Linux distribution).
+I am a rising senior at the University of South Florida. I primarily work on machine learning projects using Python; I also enjoy learning shell scripting using Ubuntu (Linux distribution).
 
 # Stats
 
