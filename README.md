@@ -1,6 +1,6 @@
 # 👋 Hi I'm Megan Tran!
 
-I am an incoming Pathway To Computing Graduate Certificate Student at the University of South Florida. Currently, I work on machine learning projects using Python in Dr. Templeton's Lab at USF. On the side, I engage with side projects involving NLP and other machine/deep learning techniques.
+I am an Pathway To Computing Graduate Certificate Student at the University of South Florida. Currently, I work on machine learning projects using Python in Dr. Templeton's Lab at USF. On the side, I engage with side projects involving NLP and other machine/deep learning techniques.
 
 # Stats
 
