@@ -1,6 +1,6 @@
 # 👋 Hi I'm Megan Tran!
 
-I am an Pathway To Computing Graduate Certificate Student at the University of South Florida. Currently, I work on machine learning projects using Python in Dr. Templeton's Lab at USF. On the side, I engage with side projects such as video game development with Unity.
+I am an Pathway To Computing Graduate Certificate Student at the University of South Florida and will be beginning the MSCS Program in Fall 2025. Currently, I work on machine learning projects using Python in Dr. Templeton's Lab at USF. On the side, I engage with side projects such as video game development with Unity to advance my understanding of the various types of technologies companies implement.
 
 # Stats
 
