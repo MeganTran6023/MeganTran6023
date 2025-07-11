@@ -1,6 +1,6 @@
 # 👋 Hi I'm Megan Tran!
 
-Currently, I work on machine learning projects using Python in Dr. Templeton's Lab at USF. On the side, I engage with side projects such as video game development with Unity to advance my understanding of the various types of technologies companies implement.
+Currently, I work as an software engineer intern at the Institute of Applied Engineering and a machine learning graduate research assistant in Dr. Templeton's Lab at USF. On the side, I am developing a video game to improve violinists' finger dexterity using Python.
 
 # Stats
 
