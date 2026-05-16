@@ -1,6 +1,6 @@
 # 👋 Hi I'm Megan Tran!
 
-Currently, I work as an software engineer intern at the Institute of Applied Engineering and a machine learning graduate research assistant in Dr. Templeton's Lab at USF. On the side, I am developing a video game using Python to improve violinists' finger dexterity.
+Currently, I work as an software engineer intern at the Institute of Applied Engineering and a machine learning graduate research assistant in Dr. Templeton's Lab at USF. On the side, I am developing a video game using Python to improve violinists' finger and arm dexterity.
 
 
 <!--
